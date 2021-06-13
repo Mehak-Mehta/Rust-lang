@@ -8,5 +8,5 @@ fn main() {
     strs::run();
     tuples::run();
     vectors::run();
-    conditionals::main();
+    conditionals::run();
 }
