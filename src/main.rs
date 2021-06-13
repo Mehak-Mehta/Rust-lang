@@ -11,6 +11,6 @@ fn main() {
     tuples::run();
     vectors::run();
     conditionals::run();
-   loopsfizzbuzz::main();
-   functions::run();
+    loopsfizzbuzz::main();
+    functions::run();
 }
