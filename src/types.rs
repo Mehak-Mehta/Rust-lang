@@ -1,6 +1,5 @@
-#![allow(non_snake_case)]
-pub fn run() {
-      // normal int, defalut = i32
+
+pub fn run() {// normal int, defalut = i32
       let x = 1;
       // normal float, defalut = f64
 
