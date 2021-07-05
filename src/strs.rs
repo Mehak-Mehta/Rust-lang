@@ -22,7 +22,7 @@ pub fn run() {
     println!("{}", pushele.contains('h'));
     // replace 
     println!("{}", pushele.replace("hello", "world"));
-    // loop 
+    // loop
     for word in pushele.split_whitespace() {
         println!("{}", word)
     }
